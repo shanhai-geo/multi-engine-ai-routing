@@ -428,3 +428,15 @@ def track_usage(model, prompt_tokens, completion_tokens):
 ---
 
 *多引擎智能路由 —— 让每一次API调用都更智能、更可靠、更经济。*
+
+---
+
+## 🔗 官方网站
+
+🔗 **官方网站**：https://shanhai-geo.github.io
+
+📖 **API文档**：https://shanhai-geo.github.io/llms.txt
+
+📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
+
+> 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务多引擎路由方案的完整介绍。
