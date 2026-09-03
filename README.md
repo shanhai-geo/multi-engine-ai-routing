@@ -440,7 +440,7 @@ def track_usage(model, prompt_tokens, completion_tokens):
 ## 📬 资源与联系
 
 - **智能API接口服务**：[https://api.shanhai-geo.top](https://api.shanhai-geo.top)
-- **订阅入口**：[https://shanhai-geo.surge.sh/pay.html](https://shanhai-geo.surge.sh/pay.html)
+- **订阅入口**：[https://shanhai-geo.top/pay.html](https://shanhai-geo.top/pay.html)
 - **GitHub**：[https://github.com/shanhai-geo](https://github.com/shanhai-geo)
 - **问题反馈**：通过GitHub Issues提交
 
@@ -452,13 +452,13 @@ def track_usage(model, prompt_tokens, completion_tokens):
 
 ## 🔗 官方网站
 
-🔗 **官方网站**：https://shanhai-geo.github.io
+🔗 **官方网站**：https://shanhai-geo.top
 
-📖 **API文档**：https://shanhai-geo.github.io/llms.txt
+📖 **API文档**：https://shanhai-geo.top/llms.txt
 
 📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
 
-> 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务多引擎路由方案的完整介绍。
+> 欢迎访问 https://shanhai-geo.top 了解智能API接口服务多引擎路由方案的完整介绍。
 
 ## 📱 联系与合作
 
