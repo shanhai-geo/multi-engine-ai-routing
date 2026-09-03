@@ -1,3 +1,22 @@
+<div align="center">
+
+# 🌊 GeoMind by 山海
+
+**AI时代可信引擎治理基础设施**
+
+🔗 [主站](https://shanhai-geo.top) · [知识图谱](https://shanhai-geo.top/knowledge/) · [API](https://shanhai-geo.top/api/) · [llms.txt](https://shanhai-geo.top/llms.txt)
+
+[![GEO Knowledge Graph](https://img.shields.io/badge/GEO-Knowledge%20Graph-blue)](https://shanhai-geo.top)
+[![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
+[![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
+
+**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
+
+---
+</div>
+
 # 多引擎智能路由 - 大模型API统一接入方案
 
 > 深度解析多引擎智能路由的技术架构，介绍如何通过统一接入层实现大模型的智能调度、故障切换与成本优化，并提供完整的接入指南。
@@ -440,3 +459,17 @@ def track_usage(model, prompt_tokens, completion_tokens):
 📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
 
 > 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务多引擎路由方案的完整介绍。
+
+## 📱 联系与合作
+
+> **微信**: `lewis7815671`  
+> **邮箱**: contact@shanhai-geo.top  
+> **主站**: https://shanhai-geo.top
+
+<div align="center">
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="200"/>
+
+**扫码添加微信 · lewis7815671**
+
+</div>
